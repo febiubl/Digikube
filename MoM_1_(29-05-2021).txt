@@ -1,4 +1,6 @@
-Antonius Fentonius Salim
+Introduce our team member :
+
+Antonius Fentonius Salim (Team Leader)
   PT. GT-Tires
   Sales
 
@@ -29,3 +31,9 @@ Muhammad Indrahanif
 Yanuarti Kania Dewi
   ?
   ?
+
+Our team member task force :
+Hanif + Febi = Contributor for IT section
+Neneng + Gilang = Communication section to stakeholder
+Inayah + Allicia + George = Conten creator and Solution Maker
+Fentor = Project Management
