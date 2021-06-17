@@ -1,5 +1,5 @@
 Indonesia
-Meeting Pertama 31 Mei 2021
+Meeting Kedua 31 Mei 2021
 1.	Skema KUBEMART ada dua, satu yang terdiri dari beberapa KUBE menjadi satu dan menjual produknya secara online, satu lagi KUBE nya berdiri sendiri-sendiri. Perlu dipelajari mana yang lebih efektif dan efisien.
 2.	Ada aplikasi android yang sudah dibuatkan untuk KUBE yang terbentuk tahun 2020, untuk KUBE yang terbentuk pada tahun-tahun sebelumnya belum ada aplikasi.
 3.	Beberapa instansi pejabat daerah di Sumedang memantau beberapa KUBE, pada instansi Bu Yanuarti memantau 1 kelompok KUBE yang produksinya terkait pertanian.
@@ -17,7 +17,7 @@ Daftar Hadir
 7.	M Indrahanif
 
 English
-First Meeting 31st May 2021
+Second Meeting 31st May 2021
 1.	There are two KUBEMART plan, one which consists of several KUBEs into one and sells its products online, the other is every KUBE stands independently. It is necessary to learn which one is more effective and efficient.
 2.	There is an android application that has been made for KUBE which was formed in 2020, for KUBE which was formed in previous years there is no application yet.
 3.	Several local government agencies in Sumedang monitor several KUBEs, in the agency Bu Yanuarti monitors 1 group of KUBE whose production is related to agriculture.
