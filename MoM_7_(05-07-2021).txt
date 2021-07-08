@@ -1,0 +1,29 @@
+Seventh Meeting
+July 5, 2021
+
+Fenton
+Arief Syamsudin
+Yanuarti
+Dadang Sulaeman
+Febi Ari Wicaksono
+Muhammad Indrahanif
+
+Among 52 Kube, there are 6 Kube have good progress with number of lambs is growing. Those well managed Kube could become benchmarks and pioneer in developing Kube program. Sumedang government is keen to solve poverty problem there and supportive to Kube program.
+
+Pak Arief will create the second apps named "DIGIKUBE" as duplicate of existing "KUBE" apps. This DIGIKUBE apps used for our project and trial purpose, so it won't conflicting existing "KUBE" apps. In the future data might be migrated from existing apps to the new one.
+
+DIGIKUBE apps for project simulation and trial purpose, will focus on lambs farming activity.
+
+DIGIKUBE interface will copy KUBE, with additional menu for:
+
+Non-Kube members to buy lambs (similar to OXL marketplace)
+Non-kube members to make reservation / order in advance the lambs.
+In the scenario of reservation will targeting ASN (civil servants) in Sumedang government office. Contract letter will be formed and down payment or installment transfer to their own name account in Bank Kabupaten Sumedang (BUMD).
+For entrepreneurial menu, there will be PIC to select the suitable material links in Youtube / internet.
+Entrepreneurial module can be put on the ready to used apps menu.
+
+DIGIKUBE business model could become a prototype and scalable in other program.
+
+Next meeting with pak Arief is Thursday 8th July afternoon.
+
+Thank you very much.
