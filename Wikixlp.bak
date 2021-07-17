@@ -1,0 +1,426 @@
+[[File:LogoDigikube.PNG|thumb|Team 2 - Digikube]]
+Digikube is the Digital platform of  Kelompok Usaha Bersama that empowering Kelompok Usaha Bersama (KUBE) it self by Digitalization.<br>
+Happy Digital X is an online Profesional Education Program of Tsinghua Southeast Asia in Bali, Indonesia.<br>
+Happy Digital X as a forum that assign us to observe this as project challenge. <br>
+<br>
+This page is the documentation for project challenge which build by our digikube team.
+
+== Our Team Member ==
+[[File:Teammember-team2-digikube-febi.PNG|thumb|Team Member of Digikube]]
+* Fenton Salim as Team Leader
+* [[User:Febiubl|Febi Ari Wicaksono]] as IT & Knowledge Repository Builder
+* [[User:Indrahanif1989|M. Indrahanif]] as IT & Knowledge Repository Builder
+* [[User:InayaHDX|Inaya Sari M]] as Entrepreneurship and Expert
+* George K as Entrepreneurship and Expert
+* Allicia Deana as Entrepreneurship and Expert
+* Yanuarti KD as Stakeholder Engagement and Community Relation
+* Gilang Permana as Stakeholder Engagement and Community Relation
+* Dadang Sulaeman as Government Policy and Regulation
+* Agus Wahidin as Government Policy and Regulation
+* Bubun Aliminsyah as Social Empowerment Division
+* Arief Syamsudin as IT Developer
+
+== Our activities ==
+* [https://github.com/febiubl/Digikube/blob/6768657fe2568bb54f1fdf5eac2e204045d3c1de/MoM_1_(29-05-2021).txt 29 May 2021, Project, Role and Team Management]
+* [https://github.com/febiubl/Digikube/blob/6768657fe2568bb54f1fdf5eac2e204045d3c1de/MoM_2_(31-05-2021).txt 31 May 2021, Talk and Finnd out Kube's Background]
+* [https://github.com/febiubl/Digikube/blob/6768657fe2568bb54f1fdf5eac2e204045d3c1de/MoM_3_(04-06-2021).txt 4 June 2021, Stakeholder Presentation and Discussion]
+* [https://github.com/febiubl/Digikube/blob/6768657fe2568bb54f1fdf5eac2e204045d3c1de/MoM_4_(11-06-2021).txt 11 June 2021, Detailing Problems and Business Process of Kube Apps]
+* [https://github.com/febiubl/Digikube/blob/6768657fe2568bb54f1fdf5eac2e204045d3c1de/MoM_5_(17-06-2021).txt 17 June 2021, Detailling of Challenges]
+* [https://github.com/febiubl/Digikube/blob/6768657fe2568bb54f1fdf5eac2e204045d3c1de/MoM_6_(22-06-2021).txt 22 June 2021, Generating Process: Stakeholder analysis, Goal Statement, Data Gathering, and Solution Brainstorming.]
+* [https://github.com/febiubl/Digikube/blob/6768657fe2568bb54f1fdf5eac2e204045d3c1de/MoM_7_(05-07-2021).txt 12 July 2021, Detailing Solutions : Explore and Elaborate Solution and Team Assignment]
+* 17 Juli 2021, Apps Improvement and Hands On Entrepreneur Module
+
+== Challenge project ==
+On Progress...
+
+=== Introduction ===
+On Progress...
+
+==== History ====
+* KUBE: cooperative business with 5-10 members 
+* Funding from government Rp 20.000.000 each group  
+* 52 KUBEs established in 2020, 6 of them doing well
+
+==== External Data ====
+
+{| class="wikitable sortable"
+|+ DATA KOMODITAS YANG BISA DIKEMBANGKAN DI KABUPATEN SUMEDANG
+|-
+! NO !! SECTOR !! COMODITY !! LOCATION (DISTRICT) !! LUAS !! VOLUME !! DEVELOP OPPORTUNITY !! NOTE 
+|-
+
+|	1	||	Tanaman Pangan	||	Padi	||	se Kabupaten Sumedang	||	 25.000 	ha	||	 625.000 	kg	||	Pengembangan Varietas	||		
+|-
+|		||		||	Jagung	||	se Kabupaten Sumedang	||	 15.000 	ha	||	 225.000 	kg	||	Pengembangan Varietas	||		
+|-
+|		||		||	Kacang Tanah	||	Situraja, Cisitu, Jatigede, Darmaraja, Wado, Jatinunggal	||	 1.500 	ha	||	 180.000 	kg	||	Pengembangan Varietas	||		
+|-
+|		||		||	Ubi Jalar	||	Rancakalong, Pamulihan, Tanjungsari, Sukasari	||	 400 	ha	||	 14.400.000 	stek	||	Pengembangan areal tanam	||		
+|-
+|		||		||	Ubi Kayu	||	Cibugel, Wado, Jatinunggal, Cisitu, Tanjungmedar, Rancakalong, Cimanggung	||	 1.500 	ha	||	 15.000.000 	stek	||	Pengembangan areal tanam	||		
+|-
+|		||		||	Porang	||	Jatigede, Ganeas, Tanjungmedar	||	 200 	ha	||	 2.000.000 	bibit	||	Pengembangan areal tanam	||		
+|-
+|		||		||	Koro	||	Wado, Jatinunggal	||	 10 	ha	||	 500 	kg	||	Pengembangan areal tanam	||		
+|-
+|		||		||	Talas Semir	||	Ganeas, Rancakalong, Sumedang Selatan	||	 100 	ha	||	 800.000 	bibit	||	Pengembangan areal tanam	||		
+|-
+|		||		||	Talas Pratama	||	Ganeas, Rancakalong, Pamulihan, Sumedang Selatan	||	 150 	ha	||	 1.200.000 	bibit	||	Pengembangan areal tanam	||		
+|-
+|		||		||	Padi Organik	||	Cimalaka, Conggeang Rancakalong	||	 10 	ha	||	 250 	kg	||	Pengembangan areal tanam	||		
+|-
+|	2	||	Perkebunan	||	Vanili	||	Tanjungmedar,Tanjungkerta, Conggeang, Buahdua, Pamulihan, Rancakalong	||	 55 	ha	||			||	- Luas Tambah Tanam,- Peningkatan Produksi,- Pasar Tradisional	||	Varietas Unggul Lokal	
+|-
+|		||		||	Lada	||	Tanjungmedar, Tanjungkerta, Cisitu, Cisarua, Surian	||	 40 	ha	||			||	- Luas Tambah Tanam,- Peningkatan Produksi,- Pasar Tradisional	||	Varietas : Petaling, Natar	
+|-
+|		||		||	Cengkeh	||	Wado, Jatinunggal, Cibugel, Sumedang Selatan, Cisitu, Situraja	||	 160 	ha	||			||	- Luas Tambah Tanam,- Peningkatan Produksi,- Pasar Tradisional,- Mendukung Konservasi	||	Varietas : Zanzibar, Sikotok, Siputih	
+|-
+|		||		||	Kelapa	||	Jatigede, Wado, Jatinunggal, Surian, Buahdua	||	 135 	ha	||			||	- Luas Tambah Tanam,- Peningkatan Produksi,- Pasar Tradisional/Parawisata,- Mendukung Konservasi	||	Varietas : Kelapa Dalam, Genjah	
+|-
+|		||		||	Kopi Arabika	||	Cimanggung, Pamulihan, Cibugel, Wado, Sumedang Selatan	||	 125 	ha	||			||	;- Luas Tambah Tanam,- Peningkatan Produksi,- Pasar Tradisional,- Mendukung Konservasi	||	Varietas : Sigararuntang, Lini S 795	
+|-
+|	3	||	Hortikultura	||	Manggis	||	Sumedang Selatan, Tanjungmedar, Jatinunggal	||	 42 	ha	||			||	Tambah Luas tanam 120 ha	||		
+|-
+|		||		||	Pisang	||	Buahdua, Tanjungmedar	||	 100 	ha	||			||	-Tambah Luas tanam50 ha (Buahdua)
+-luas pengembangan 50  Ha varietas Raja Bulu (Tanjungmedar	||		
+|-
+|		||		||	Durian	||	Tanjungkerta, Conggeang	||	 100 	ha	||			||	Tambah Luas tanam 100 ha	||		
+|-
+|		||		||	Jahe	||	Tanjungmedar	||	 50 	ha	||			||	luas pengembangan 50   Ha varietas Putih Besar	||		
+|-
+|		||		||	Jahe	||	Wado, Buahdua, Sumedang Selatan	||	 11 	ha	||			||	-Jahe gajah 5 ha -Tambah Luas tanam 15 ha	||		
+|-
+|		||		||	Kapol	||	Sumedang Selatan	||	 10 	ha	||			||	Tambah Luas Tanam 20 ha	||		
+|-
+|		||		||	Kencur	||	Tanjungmedar	||	 200 	ha	||			||	luas pengembangan 100   Ha varietas Galesia	||		
+|-
+|		||		||	Laos	||	Tanjungmedar	||	 50 	ha	||			||	luas pengembangan 50   Ha varietas Laja Merah	||		
+|-
+|		||		||	Baby Kenya	||	Pamulihan, Rancakalong	||	 7 	ha	||			||	Tambah Luas tanam 8 ha	||		
+|-
+|		||		||	Romin	||	Pamulihan	||	 3 	ha	||			||	Tambah Luas tanam 3 ha	||		
+|-
+|		||		||	Letus	||	Pamulihan	||	 2 	ha	||			||	Tambah Luas tanam 3ha	||		
+|-
+|		||		||	Cabe Keriting	||	Cimanggung	||	 30 	ha	||			||	Tambah Luas tanam 50ha	||		
+|}
+'''''Source : Pemerintah Daerah Kabupaten Sumedang : 2021'''''
+
+
+{| class="wikitable sortable"
+|+ DATA KOMODITAS YANG BISA DIKEMBANGKAN DI KABUPATEN SUMEDANG
+|-
+! NO !! SECTOR !! COMODITY !! LOCATION (DISTRICT) !! LUAS !! PANJANG PENGEMBANGAN !! NOTE
+|-
+|	1. KEC TANJUNGMEDAR	||		||		||		||			||		||	
+|-
+|		||	Hortikultura	||	Kencur	||	Tanjungmedar	||	 200 	ha	||	Pengembangan Pemasaran	||		
+|-
+|		||		||	Laos	||	Tanjungmedar	||	 50 	ha	||	Pengembangan Pemasaran	||		
+|-
+|		||		||	Jahe	||	Tanjungmedar	||	 25 	ha	||	Pengembangan Pemasaran	||		
+|-
+|		||		||	Manggis	||	Tanjungmedar	||	 50 	ha	||	Pengembangan Pemasaran	||		
+|-
+|		||		||	Pisang	||	Tanjungmedar	||	 150 	ha	||	Pengembangan Pemasaran	||		
+|-
+|		||		||	Cabe Besar	||	Tanjungmedar	||	 10 	ha	||	Pengembangan Pemasaran	||		
+|-
+|		||		||	Tomat	||	Tanjungmedar	||	 10 	ha	||	Pengembangan Pemasaran	||		
+|-
+|		||		||	Kacang panjang	||	Tanjungmedar	||	 10 	ha	||	Pengembangan Pemasaran	||		
+|-
+|		||		||	Mentimun	||	Tanjungmedar	||	 10 	ha	||	Pengembangan Pemasaran	||		
+|-
+|		||	Tanaman Pangan	||	Jagung 	||	Tanjungmedar	||	 1.000 	ha	||	Pengembangan Pemasaran	||		
+|-
+|		||		||	Ubi Kayu	||	Tanjungmedar	||	 250 	ha	||	Pengembangan Pemasaran	||		
+|-
+|		||		||	Porang	||	Tanjungmedar	||	 50 	ha	||	Pengembangan Pemasaran	||		
+|-
+|	2. KEC DARMARAJA	||		||		||		||			||		||		
+|-
+|		||	Perkebunan	||	Kopi	||	Darmaraja	||	 30 	ha	||	Di Desa Cipeuteuy Luas 10 Ha , Komoditas Arabika Peluang  pemasaran Kabupaten sumedang	||		
+|-
+|		||	Perkebunan	||	Kelapa	||	Darmaraja	||	 35 	ha	||	Dipesisir Waduk JatigedeLuas 15 Ha Varietas Kelapa Hibrida Peluang Pemasaran Masyarakat sekitar	||		
+|-
+|		||	Tanaman Pangan	||	Kacang Tanah	||	Darmaraja	||	 40 	ha	||	Disekitar Bendungan Jatigede Luas 10 Ha Varietas DM I Peluang Pemasaran Situraja Sumedang	||		
+|-
+|		||	Hortikultura	||	Sawo	||	Darmaraja	||	 20 	ha	||	Di Desa Tarunajaya, Cikeusi dan Cipeuteuy seluas masing – masing Desa 5 Ha, Varietas Sukatali ST. Peluang Pemasaran Sukatali Situraja	||		
+|-
+|	3 KEC BUAHDUA	||		||		||		||			||		||		
+|-
+|		||	Pertanian (Bidang Hortikultura)	||		||		||			||		||		
+|-
+|		||		||	Pisang	||	Buahdua	||	 50 	ha	||	Perluasan areal tanam	||	Untuk 7 Desa ( Buahdua,Gendereh ,Ciawitali,Citaleus, Karangbungur, Nagrak dan Mekarmukti)	
+|-
+|		||		||	Jahe	||	Buahdua	||	 5 	ha	||	Perluasan areal tanam	||	Untuk 4 Desa (Buahdua,Gendereh,Ciawitali, dan Cikurubuk	
+|-
+|		||		||	Cabe	||	Buahdua	||	 3 	ha	||	Perluasan areal tanam	||	Untuk 3 Desa (Ciawitali,Cikurubuk  dan Panyindangan	
+|-
+|		||	Pertanian (Bidang Tanaman Pangan	||		||		||			||		||		
+|-
+|		||		||	Porang	||	Buahdua	||	 2 	ha	||	Perluasan areal tanam	||	1 Desa (Gendereh	
+|-
+|		||		||	Ubi Kayu	||	Buahdua	||	 12 	ha	||	Perluasan areal tanamn	||	4 Desa ( Citaleus,Mekarmukti, Karangbungur dan Ciawitali	
+|-
+|	4. KEC. SUMEDANG SELATAN	||		||		||		||			||		||		
+|-
+|		||		||		||	(Desa)	||			||		||		
+|-
+|		||	Hortikultura	||	Manggis	||	Cipancar	||	 12 	ha	||	Memenuhi pasar luar kabupaten, cirebon majalengka Memiliki jaringan ekspor	||		
+|-
+|		||	Hortikultura	||	Jahe	||	Margalaksana	||	 5 	ha	||	Tambah Luas tanam 10 ha	||		
+|-
+|		||	Hortikultura	||	Kapol	||	Mekar Rahayu	||	 10 	ha	||	Tambah Luas Tanam 20 ha	||		
+|-
+|		||	Perkebunan	||	Kopi	||	Citengah, Cipancar	||	 53 	ha	||	Telah memiliki brand merk sendiri	||		
+|-
+|		||	Perkebunan	||	TEh	||	Citengah	||	 95 	ha	||	Pengolahan hasil rumahan	||		
+|-
+|		||	Perkebunan	||	Cengkeh	||	Mekar Rahayu, Margalaksana	||	 80 	ha	||	Ingin Memiliki mesin penyulingan sendiri	||		
+|-
+|		||	Tanaman Pangan	||	Talas	||	Gunasari	||	 10 	ha	||	Pengolahan Hasil menjadi Tepung Talas	||		
+|-
+|	5. KEC CISITU	||		||		||		||			||		||		
+|-
+|		||	Tanaman Pangan 	||	Jagung 	||	Cisitu	||	 500 	ha	||	Potensi Tambah Tanam	||	Ditanam di	
+|-
+|		||		||	Kacang Tanah	||	Cisitu	||	 1.000 	ha	||	Potensi Tambah Tanam	||	Lahan darat,	
+|-
+|		||		||	Kacang Gondolo	||	Cisitu	||	 250 	ha	||	Potensi Tambah Tanam	||	kecuali	
+|-
+|		||		||	Ubi Jalar	||	Cisitu	||	 150 	ha	||	Potensi Tambah Tanam	||	Jagung, Ubi	
+|-
+|		||		||	Ubi Kayu	||	Cisitu	||	 200 	ha	||	Potensi Tambah Tanam	||	Jalar dan	
+|-
+|		||	Hortikuktura	||	Sawo Sukatali	||	Cisitu	||	 200 	ha	||	Potensi Tambah Tanam	||	Kacang Tanah	
+|-
+|		||		||	Mangga Gedong Gincu	||	Cisitu	||	 150 	ha	||	Potensi Tambah Tanam	||	(25 % lahan	
+|-
+|		||		||	Pisang	||	Cisitu	||	 200 	ha	||	Potensi Tambah Tanam	||	sawah)	
+|-
+|		||	Perkebunan	||	Kopi	||	Cisitu	||	 100 	ha	||	Potensi Tambah Tanam	||		
+|-
+|	6. KEC SUKASARI	||		||		||		||			||		||		
+|-
+|		||	Hortikultura	||	Tomat	||	Sukasari	||	 66 	ha	||	Perluasan areal 10 ha	||		
+|-
+|		||		||	Kubis	||	Sukasari	||	 93 	ha	||	Perluasan areal 10 ha	||		
+|-
+|		||		||	Kentang	||	Sukasari	||	 52 	ha	||	Perluasan areal 20 ha	||		
+|-
+|		||		||	Cabe	||	Sukasari	||	 57 	ha	||	Perluasan areal 10 ha	||		
+|-
+|		||		||	Lemon Tea	||	Sukasari	||	 4 	ha	||	Ekstensifikasi 9.800 (Pohon)	||		
+|-
+|		||	Pangan	||	Ubi Jalar	||	Sukasari	||	 69 	ha	||	Perluasan areal 20 ha	||		
+|-
+|		||	Perkebunan	||	Kopi	||	Sukasari	||	 1.100 	ha	||	Perluasan areal 30 ha	||		
+|-
+|	7. KEC TANJUNGSARI	||		||		||		||			||		||		
+|-
+|		||	Tanaman Pangan	||	Ubi Jalar	||	Desa margajaya	||	 20 	ha	||		||		
+|-
+|		||		||		||	Desa Tanjungsari	||	 2 	ha	||		||		
+|-
+|		||		||		||	Desa Kutamandiri	||	 15 	ha	||		||		
+|-
+|		||		||		||	Desa Cinanjung	||	 5 	ha	||		||		
+|-
+|		||		||		||	Desa gunung manik	||	 5 	ha	||		||		
+|-
+|		||		||		||	Desa Margaluyu	||	 2 	ha	||		||		
+|-
+|		||		||		||	Desa Gudang	||	 10 	ha	||		||		
+|-
+|		||		||		||	Desa Raharja	||	 5 	ha	||		||		
+|-
+|		||		||	Jagung Hibrida	||	Desa margajaya	||	 15 	ha	||		||		
+|-
+|		||		||		||	Desa Kutamandiri	||	 5 	ha	||		||		
+|-
+|		||		||		||	Desa Cinanjung	||	 10 	ha	||		||		
+|-
+|		||		||		||	Desa gunung manik	||	 2 	ha	||		||		
+|-
+|		||		||		||	Desa Gudang	||	 10 	ha	||		||		
+|-
+|		||		||		||	Desa Raharja	||	 10 	ha	||		||		
+|-
+|		||	Hortikultura	||	Cabe Keriting	||	Desa Cijambu	||	 25 	ha	||		||		
+|-
+|		||		||		||	Desa Kadakajaya	||	 20 	ha	||		||		
+|-
+|		||		||		||	Desa Pasigaran	||	 18 	ha	||		||		
+|-
+|		||		||		||	Desa Margaluyu	||	 2 	ha	||		||		
+|-
+|		||		||		||	Desa Gudang	||	 3 	ha	||		||		
+|-
+|		||		||		||	Desa Raharja	||	 3 	ha	||		||		
+|-
+|		||	Perkebunan	||	Kopi	||	Desa Cijambu	||	 150 	ha	||		||		
+|-
+|		||	Hortikultura	||	Cabe Rawit	||	Desa Kadakajaya	||	 20 	ha	||		||		
+|-
+|		||		||		||	Desa Pasigaran	||	 18 	ha	||		||		
+|-
+|		||		||		||	Desa Cinanjung	||	 1 	ha	||		||		
+|-
+|		||		||		||	Desa Gunung Manik	||	 3 	ha	||		||		
+|-
+|		||		||		||	Desa Margaluyu	||	 2 	ha	||		||		
+|-
+|		||		||	Cabe besar	||	Desa Kutamandiri	||	 3 	ha	||		||		
+|-
+|		||		||		||	Desa Cinanjung	||	 1 	ha	||		||		
+|-
+|		||		||		||	Desa Gunung Manik	||	 3 	ha	||		||		
+|-
+|		||		||	Tomat	||	Desa Kutamandiri	||	 2 	ha	||		||		
+|-
+|		||		||		||	Desa Gunung Manik	||	 5 	ha	||		||		
+|-
+|		||		||		||	Desa Margaluyu	||	 2 	ha	||		||		
+|-
+|		||		||		||	Desa Gudang	||	 2 	ha	||		||		
+|-
+|		||		||		||	Desa Raharja	||	 3 	ha	||		||		
+|-
+|		||		||	Mentimun	||	Desa Cinanjung	||	 2 	ha	||		||		
+|-
+|		||		||		||	Desa Gunung Manik	||	 2 	ha	||		||		
+|-
+|		||		||		||	Desa Margaluyu	||	 1 	ha	||		||		
+|-
+|		||		||	Kubis	||	Desa Margaluyu	||	 2 	ha	||		||		
+|-
+|		||		||		||	Desa Gudang	||	 2 	ha	||		||		
+|-
+|		||		||		||	Desa Raharja	||	 3 	ha	||		||		
+|-
+|		||		||	Ubi kayu	||	Desa Jatisari	||	 1 	ha	||		||		
+|-
+|		||		||		||	Desa Gunung Manik	||	 5 	ha	||		||		
+|-
+|		||		||		||	Desa Raharja	||	 3 	ha	||		||		
+|-
+|		||		||	Kacang Tanah	||	Desa Jatisari	||	 1 	ha	||		||		
+|-
+|		||		||		||	Desa Gudang	||	 5 	ha	||		||		
+|-
+|		||		||		||	Desa Raharja	||	 1 	ha	||		||		
+|-
+|	8. KEC PASEH	||		||		||		||			||		||		
+|-
+|		||	Tanaman Pangan	||	Kacang Tanah	||	PASEH	||	 20 	ha	||	Pengembangan 30 ha	||	Pemasaran Wil. Sumedang	
+|-
+|		||		||	Kacang Hijau	||	PASEH	||	 30 	ha	||	Pengembangan 20 ha	||	Pemasaran Regional Jawa Barat	
+|-
+|		||	Perkebunan	||	Tembakau	||	PASEH	||	 20 	ha	||	Pengembangan 30 ha	||	Pemasaran Nasional	
+|-
+|		||	Hortikultura	||	Salak	||	PASEH	||	 20 	ha	||	Pengembangan 10 ha	||	Pemasaran Regional Jawa Barat	
+|-
+|		||		||	Mangga	||	PASEH	||	 10 	ha	||	Pengembangan 15 ha	||	Pemasaran Wil. Sumedang	
+|-
+|		||		||	Porang	||	PASEH	||	 10 	ha	||	Pengembangan 15 ha	||	Pemasaran Regional Jawa Barat	
+|-
+|	9. KEC SUMEDANG UTARA	||		||		||		||			||		||		
+|-
+|		||	Tanaman Pangan	||	Talas Beneng	||	Girimukti	||	 5 	ha	||	Diambil daunnya untuk rokok	||		
+|-
+|		||	Hortikultura	||	Sayuran	||	Girmukti	||	 1 	ha	||	Buat hidroponik pemuda tani	||		
+|-
+|		||	Tanaman Pangan	||	Porang	||	Kebonjati	||	 1 	ha	||	Pengembangan Varietas Baru	||		
+|-
+|		||	Hortikultura	||	Cabe besar	||	Kebonjati	||	 1 	ha	||	Peluang usaha pasar	||		
+|-
+|		||	Perkebunan	||	Kapol	||	Jatihurif	||	 2 	ha	||	Penambahan Luas Tanam	||		
+|}
+'''''Source : Pemerintah Daerah Kabupaten Sumedang : 2021'''''
+
+==== Problem statements ====
+how to build their entrepreneurship manage & evaluate their business facilitate the funding & ensure their products and promote their products<br>
+The KUBE Program aimed at tackling poverty in Sumedang unfortunately does not run well due to low entrepreneurial skill and non-optimal ICT tools usage
+
+=== Analysis ===
+On Progress...
+
+==== Applying tools ====
+Digikube are using some tools to observe this project challenges, as follow :
+#[https://www.systemsinnovation.io/post/iceberg-model Iceberg Model]
+#Stakeholder Analysis
+#Complex Breakdown Structures (PBS, WBS, OBS)
+#Design Structure Matrix (DSM)
+#Project lifecycle and Vee-model
+#Consensus building
+
+===== Iceberg Model of Digikube =====
+[[File:Iceberg-febi.PNG|thumb|Iceberg model of system. Thinking in systems allows us to uncover the root cause of out problems, allowing for more fundamental and transformative solutions to be visible.]]
+
+''Event''<br>
+KUBEs are not well developed and have a low business sustainability
+
+''Patterns''
+* The KUBEs are tend to copy another KUBE business (80% KUBEs are goat and sheep farming)
+* Less enthusiasm
+* Limitation of the mentors of KUBE
+
+''Structure''
+* No accountability from KUBE members, there are no commitments to sustain the business
+* There is no collaboration with another important stakeholders such as University, another government division, etc
+
+''Mental Model''
+* Low entrepreneurship skills
+* Low entrepreneurial motivation 
+* Low literacy rate
+
+===== Stakeholders Analysis =====
+On Progress...
+
+==== Other analysis ====
+On Progress...
+
+==== Design Structure Matrix (DSM) ====
+On Progress...
+
+=== Solutions ===
+[[File:Kubeapps.PNG|thumb|test]]
+On Progress...
+
+==== Goal Statement ====
+To empower the community by improving business literacy and entrepreneurial skill using DIGIKUBE apps
+
+==== ICT solutions ====
+We found the following items to be developed, there are :
+* Only for KUBE members
+* Marketplace limited for KUBE members
+* Report of activities
+* Financial report
+* Articles
+
+Our ICT Solution is Enhancement (additional) as following :
+* Open access for all (user egistration) 
+* Marketplace for public 
+* Transaction: order in advance + installment 
+* Entrepreneurial modules (Document & Video) 
+* Apps linked to social media (Youtube, Instagram, Twitter, etc.)
+
+==== Digikube Mockup ====
+Digikube Mockup is a model or replica or structure, used for instructional or experimental purposes. <br>
+Digikube team already made it to improve the existing apps.<br>
+The Mockup have proposed as prototype, it base on the solution of project challenges and team analysis using some tools such as iceberg model.
+You can see and try the mockup by click this [https://xd.adobe.com/view/773a04ec-c167-48a0-a738-f26ef765d5e9-2269/screen/d1d0e22e-bbeb-48e7-94c7-2a7a6a2e99b2?fullscreen links.]
+
+==== Project Lifecycle ====
+On Progress...
+
+==== Our Vee-model ====
+On Progress...
+
+==== Education solutions ====
+On Progress...
+
+=== Feedback from stakeholder ===
+[https://github.com/febiubl/Digikube/blob/6768657fe2568bb54f1fdf5eac2e204045d3c1de/MoM_1_(29-05-2021).txt MoM Pertama]
