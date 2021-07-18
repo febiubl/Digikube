@@ -1,0 +1,29 @@
+Eighth Meeting
+July 17, 2021
+
+Fenton
+Arief Syamsudin
+Yanuarti
+Muhammad Indrahanif
+Inaya
+Allicia
+Febi Ari Wicaksono
+
+1. XLP Digikube project account is ready and linked to the Github repository.
+
+2. Entrepreneurial modules apps can be installed on mobile phone and shared to 10 respondents, then kindly ask them to fill the feedback in Google link. Ibu Neng will consult with partners in Sumedang for finding the respondent candidates. This feedback will be presented on July 31st to the faculty members as the pilot.
+
+3. DIGIKUBE apps need to be completed with some new features:
+
+a. Link to the entrepreneurial module available in social media such as Youtube account, or articles / video can be embedded in apps. Somebody appointed has authority to approve any social media content to be linked in DIGIKUBE apps. Pak Arief suggested the modules / articles created by the HDX project might be updated / modified. Ibu Inaya will send the materials and entrepreneurial module apps data to pak Arief.
+
+b. Point / score collection base on data / information which entered / input into apps. The most active Kube(s) will get the appreciation / reward in the future. 
+
+c.  Buyers to make sheep reservation / order in advance for next year needs.
+
+d. Marketplace function for Kube to show their sheep sold, and for buyers to find the information sheep available.
+
+4. Target time July 29th for those new features (#3 a-d) from pak Arief: 
+at least we have mock up for presentation purpose, or the best is complete apps ready to be launched to public (Play Store)
+   
+Thank you very much.
