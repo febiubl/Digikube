@@ -1,48 +1,89 @@
-[[File:LogoDigikube.PNG|thumb|Team 2 - Digikube]]
-Digikube is the Digital platform of  Kelompok Usaha Bersama that empowering Kelompok Usaha Bersama (KUBE) it self by Digitalization.<br>
-Happy Digital X is an online Profesional Education Program of Tsinghua Southeast Asia in Bali, Indonesia.<br>
-Happy Digital X as a forum that assign us to observe this as project challenge. <br>
+[[File:Digikube_logo.PNG|thumb|Digikube Indonesia]]
+
+This research started in May 2021, we build a team that we named it as digikube.
 <br>
-This page is the documentation for project challenge which build by our digikube team.
+It departs from a problem that kube (a joint business group in Sumedang) seems not sustainable to run it main business.
+<br>
+Digikube consist of stakeholder, government, apps developer, university, and experts. These collaboration aimed to open the solution with another background side.
+Also in this research, we are doing a deep analysis to looking for a solution and recommendation.
 
-== Our Team Member ==
-[[File:Teammember-team2-digikube-febi.PNG|thumb|Team Member of Digikube]]
-* Fenton Salim as Team Leader
-* [[User:Febiubl|Febi Ari Wicaksono]] as IT & Knowledge Repository Builder
-* [[User:Indrahanif1989|M. Indrahanif]] as IT & Knowledge Repository Builder
-* [[User:InayaHDX|Inaya Sari M]] as Entrepreneurship and Expert
-* George K as Entrepreneurship and Expert
-* Allicia Deana as Entrepreneurship and Expert
-* Yanuarti KD as Stakeholder Engagement and Community Relation
-* Gilang Permana as Stakeholder Engagement and Community Relation
-* Dadang Sulaeman as Government Policy and Regulation
-* Agus Wahidin as Government Policy and Regulation
-* Bubun Aliminsyah as Social Empowerment Division
-* Arief Syamsudin as IT Developer
+Result of the research already documented on this wiki xlp below,
 
-== Our activities ==
+== Milestone ==
 * [https://github.com/febiubl/Digikube/blob/6768657fe2568bb54f1fdf5eac2e204045d3c1de/MoM_1_(29-05-2021).txt 29 May 2021, Project, Role and Team Management]
 * [https://github.com/febiubl/Digikube/blob/6768657fe2568bb54f1fdf5eac2e204045d3c1de/MoM_2_(31-05-2021).txt 31 May 2021, Talk and Finnd out Kube's Background]
 * [https://github.com/febiubl/Digikube/blob/6768657fe2568bb54f1fdf5eac2e204045d3c1de/MoM_3_(04-06-2021).txt 4 June 2021, Stakeholder Presentation and Discussion]
 * [https://github.com/febiubl/Digikube/blob/6768657fe2568bb54f1fdf5eac2e204045d3c1de/MoM_4_(11-06-2021).txt 11 June 2021, Detailing Problems and Business Process of Kube Apps]
 * [https://github.com/febiubl/Digikube/blob/6768657fe2568bb54f1fdf5eac2e204045d3c1de/MoM_5_(17-06-2021).txt 17 June 2021, Detailling of Challenges]
+* [https://docs.google.com/presentation/d/1_gu5Hhy3RYAUWE0KAkL-1JMRMIIBrz7ku0rVRPuHSgc/edit#slide=id.gd9c453428_0_16 19 June 2021, Presentation of Digikube Observation I]
 * [https://github.com/febiubl/Digikube/blob/6768657fe2568bb54f1fdf5eac2e204045d3c1de/MoM_6_(22-06-2021).txt 22 June 2021, Generating Process: Stakeholder analysis, Goal Statement, Data Gathering, and Solution Brainstorming.]
+* [https://docs.google.com/presentation/d/1Hikt3Xbh_jXrU9FAf8Z2SOP_hxDtE5Nu2ER-XVnY6b0/edit#slide=id.ge3f5a29a05_0_16 10 July 2021, Presentation of Digikube Observation II]
 * [https://github.com/febiubl/Digikube/blob/6768657fe2568bb54f1fdf5eac2e204045d3c1de/MoM_7_(05-07-2021).txt 12 July 2021, Detailing Solutions : Explore and Elaborate Solution and Team Assignment]
-* 17 Juli 2021, Apps Improvement and Hands On Entrepreneur Module
+* [https://github.com/febiubl/Digikube/blob/d2f02ad7b8a2c3b83d819f612675180f5f422ee3/MoM_8_(17-07-2021).txt 17 Juli 2021, Apps Improvement, Prototype of Apps, Hands On Entrepreneur Module.]
 
-== Challenge project ==
-On Progress...
+== Introduction ==
 
-=== Introduction ===
-On Progress...
+=== Project Background ===
+Sumedang is located in West Java, its about 211 KM far from Jakarta.
+It population reaches 1.2 million people and base on statistically '''Poverty level in Sumedang is 9.07% in 2019,  and increase to 10.26% in 2020.'''
+<br>
+To tackling this poverty, Sumedang need a directed effort, integrated, and sustainable effort carried out by the Central Government, Regional Government, and/or the community in the form of policies, programs, empowerment activities, assistance, and facilitation to meet the basic needs of every citizen. 
+<br>
+<br>
+Rescue
+Bantuan pangan non tunai (BPNT) :
+Indonesian Government give Keluarga Penerima Manfaat (KPM) for family who are included in Data Tingkat Kesejahteraan Sosial (Social Welfare Data) Rp 150.000/month for buy main food at collaborating store.
+<br>
+<br>
+Kelompok Usaha Bersama (KUBE) is a join business group of poor families that was formed, grew, and developed on its initiative in carrying out Productive Economic Enterprises (UEP) to increase family income and social welfare.
+KUBE consists of 5 -20 families from the poor who are included in the Integrated Social Welfare Data (DTKS).
+UEP is social assistance provided to joint business groups to increase family income and social welfare .
+<br>
+<br>
+'''Goal'''<br>
+* Beside owning a business (KUBE), Kelompok Penerima Manfaat (KPM) can also buy their food at KUBE which they operate.
+* All KUBES join to forming KUBEMART 
+* KUBEMART is developed to become a modern minimarket and go digital marketing.
+<br>
+KUBE Social Assistance Proposal Stages
+# Individuals, communities, or social welfare institutions can propose proposals to the District/City Social Service through the Village Head;
+# District/City Social Services verify and validate prospective KUBE recipients according to the Integrated Data for Handling the Poor and Poor (DTPFMOTM); 
+# The District/City Social Service proposes a proposal to the Minister of Social Affairs through the Director of the Poor Handling Region I with a copy submitted to the Head of the Provincial Social Service;
+# The Directorate for the Handling of the Poor in Region I verifies and validates the proposal from the District/City Social Service;
+# The Director for the Handling of the Poor in Region I determines the location and recipients of KUBE;
+# The results of determining the location and KUBE recipients are submitted to the District/City Social Service Office;
+# The Head of District/City Social Service shall sign the Statement of Absolute Responsibility (SPTJM) for KUBE.
+<br>
+CUBE TERMS
+# Poor Households registered in the Integrated Social Welfare Data (DTKS).
+# Have an Identity Card (KTP) and Family Card (KK).
+# Married and/or 18-60 years old and still productive.
+<br>
+KUBE social assistance is provided in the form of non-cash via transfer to group accounts.
+<br>
+KUBE assistant is someone who is assigned to assist the implementation of KUBE in order to improve the welfare of its members.
+<br>
+<br>
 
-==== History ====
-* KUBE: cooperative business with 5-10 members 
-* Funding from government Rp 20.000.000 each group  
-* 52 KUBEs established in 2020, 6 of them doing well
+KUBE Member Rights
+# Chose/elected to be an administrator
+# Express opinions & ideas
+# Managing business and/or activities
+# Get the same information & services
+# Receiving profits from business results
+# Participate in formulating group rules/agreements
+# Received KUBE assistance funds of IDR 2,000,000 per family.
+<br>
+What are the Obligations of KUBE Members?
+# Comply with group rules/agreements
+# Attend and be active in group activities
+# Utilizing assistance for Productive Economic Enterprises (UEP)
+# Managing UEP-KUBE Social Assistance in groups
+# Managing social solidarity contributions
+# Submitting KUBE accountability reports.
 
-==== External Data ====
-
+=== External Data ===
+Below is data of commodities that can be improved in Sumedang Region.
 {| class="wikitable sortable"
 |+ DATA KOMODITAS YANG BISA DIKEMBANGKAN DI KABUPATEN SUMEDANG
 |-
@@ -105,7 +146,6 @@ On Progress...
 |		||		||	Cabe Keriting	||	Cimanggung	||	 30 	ha	||			||	Tambah Luas tanam 50ha	||		
 |}
 '''''Source : Pemerintah Daerah Kabupaten Sumedang : 2021'''''
-
 
 {| class="wikitable sortable"
 |+ DATA KOMODITAS YANG BISA DIKEMBANGKAN DI KABUPATEN SUMEDANG
@@ -340,23 +380,23 @@ On Progress...
 |}
 '''''Source : Pemerintah Daerah Kabupaten Sumedang : 2021'''''
 
-==== Problem statements ====
-how to build their entrepreneurship manage & evaluate their business facilitate the funding & ensure their products and promote their products<br>
+=== Problem statements ===
 The KUBE Program aimed at tackling poverty in Sumedang unfortunately does not run well due to low entrepreneurial skill and non-optimal ICT tools usage
+<br>
+What method to be used for :
+* build their entrepreneurship
+* manage & evaluate their business
+* facilitate the funding & ensure their products
+* promote their products
 
-=== Analysis ===
-On Progress...
+=== Goal statements ===
+To empower the community by improving business literacy and entrepreneurial skill using DIGIKUBE apps
 
-==== Applying tools ====
-Digikube are using some tools to observe this project challenges, as follow :
-#[https://www.systemsinnovation.io/post/iceberg-model Iceberg Model]
-#Stakeholder Analysis
-#Complex Breakdown Structures (PBS, WBS, OBS)
-#Design Structure Matrix (DSM)
-#Project lifecycle and Vee-model
-#Consensus building
-
-===== Iceberg Model of Digikube =====
+== Analysis ==
+We are using some tools to do a deep analysis.
+<br>
+In each tools we can elaborate the issue as follow,
+=== Iceberg Model of Digikube ===
 [[File:Iceberg-febi.PNG|thumb|Iceberg model of system. Thinking in systems allows us to uncover the root cause of out problems, allowing for more fundamental and transformative solutions to be visible.]]
 
 ''Event''<br>
@@ -376,23 +416,127 @@ KUBEs are not well developed and have a low business sustainability
 * Low entrepreneurial motivation 
 * Low literacy rate
 
-===== Stakeholders Analysis =====
+=== Stakeholders Analysis ===
 On Progress...
 
-==== Other analysis ====
-On Progress...
+=== Complex Breakdown Structures ===
+==== Product Breakdown Structure  ====
+Apps
+:Front / Back End
+:Requirement
+:UI / UX
+:Icon
+:Programming Language
+:Features
+:Standardization Product
 
-==== Design Structure Matrix (DSM) ====
-On Progress...
+KUBE Members
+:Leader
+:Members
 
-=== Solutions ===
-[[File:Kubeapps.PNG|thumb|test]]
-On Progress...
+Government
+:Public Community Office
+:Community Empowerment Office
+:Agriculture & Farm Office
+:Communication & Information Office
 
-==== Goal Statement ====
-To empower the community by improving business literacy and entrepreneurial skill using DIGIKUBE apps
+Mentors
+:Head of office
+:Certified Entrepreneurship Mentors 
 
-==== ICT solutions ====
+Apps Developer
+:Leader
+:Staffs
+
+Veterinarian
+:Animal Health Care System
+:Medical Treatment
+
+Supplier
+:Livestocks
+:Forage
+:Equipment
+
+University
+:Training material creator
+:Trainer
+:Learning Tools
+
+Customer
+E:xisting Customers
+:New Customers
+:Potential Customers
+
+==== Work Breakdown Structure  ====
+Internal Actions
+:Build dedicated team
+:Each team work on the subject simultaneously
+
+Build Understanding
+:Web research
+:Stakeholder interview
+
+External Output
+:Improving Apps
+:Making an interactive Entrepreneurship Module
+
+=== Design Structure Matrix (DSM) ===
+This matrix helps us to map the relationship between factors (subject / object) that include in a lamb farm businesses. It can be used as a reference to another decision making process
+<br>
+[[File:DSM.PNG]]
+
+=== Project Lifecycle ===
+[[File:LIFECYCLE PHASES.PNG|thumb|Project Lifecycle of Digikube]]
+
+We define the lifecycle phases of the project as follows:
+
+''Stage 1: Exploratory Research''
+:Identify existing condition of KUBE
+:Identify stakeholders needs 
+
+''Stage 2: Concept ideation''
+:Define problem statements
+:Refine stakeholders needs
+:Explore feasible concepts
+:Propose viable solutions
+:Define resources needs
+
+''Stage 3: Development of solution''
+:Developing entrepreneurial modules for KUBE mentors and members
+:Refine systems requirements
+:Build systems
+:Define solution details
+
+''Stage 4: Production of prototype'' 
+:Produce KUBE apps that meets stakeholder needs
+:Entrepreneurial training materials
+
+''Stage 5: Deployment and utilization of digital tools''
+:KUBE continuous growth
+
+''Stage 6: Support system and provision''
+:TTo ensure KUBE sustainability
+
+''Stage 7: Retirement or revamp of digital platform'' 
+:Project will retire while KUBE program still continue
+
+=== Our Vee-model ===
+[[File:Vee model.PNG|thumb|Vee-Model of Digikube]]
+
+== Solutions ==
+[[File:Kubeapps.PNG|thumb|Digikube : Prototype of Kube Apps]]
+DIGIKUBE Project solution generating process:
+* Identifying the Problem
+The HDX Team 2 made appointment with stakeholders in Sumedang government office for listening the explanation about KUBE program, and overall society situation in Sumedang. Stakeholders described everything that related to KUBE program and society there.   
+* Elaborating Information
+The team did the web research to find other information: Sumedang geography and demography, KUBE program policy from central government, and how KUBE program doing in other regions.
+* Conducting Interview
+Interview sessions were conducted with stakeholders, group members from Sumedang, apps developer, HDX faculty  members during the class, and other parties. It aimed to know the stakeholders needs / expectation, existing problems, and what is their opinions. 
+* Brainstorming and Discussion
+Group members did brainstorming and discussion session using all fact finding, information, and stakeholder needs. Make several solution options and simulated the solution models. From HDX faculty members we had Iceberg analysis, stakeholders spoke and hub, stakeholders matrix, decomposition (later on), simulation, etc.
+
+
+=== ICT solutions ===
 We found the following items to be developed, there are :
 * Only for KUBE members
 * Marketplace limited for KUBE members
@@ -407,20 +551,28 @@ Our ICT Solution is Enhancement (additional) as following :
 * Entrepreneurial modules (Document & Video) 
 * Apps linked to social media (Youtube, Instagram, Twitter, etc.)
 
-==== Digikube Mockup ====
+=== Feedback from stakeholder ===
+
+On Progressing....
+
+== Recomendation ==
+=== Mockup System ===
 Digikube Mockup is a model or replica or structure, used for instructional or experimental purposes. <br>
 Digikube team already made it to improve the existing apps.<br>
 The Mockup have proposed as prototype, it base on the solution of project challenges and team analysis using some tools such as iceberg model.
 You can see and try the mockup by click this [https://xd.adobe.com/view/773a04ec-c167-48a0-a738-f26ef765d5e9-2269/screen/d1d0e22e-bbeb-48e7-94c7-2a7a6a2e99b2?fullscreen links.]
 
-==== Project Lifecycle ====
-On Progress...
-
-==== Our Vee-model ====
-On Progress...
-
-==== Education solutions ====
-On Progress...
-
-=== Feedback from stakeholder ===
-[https://github.com/febiubl/Digikube/blob/6768657fe2568bb54f1fdf5eac2e204045d3c1de/MoM_1_(29-05-2021).txt MoM Pertama]
+= Stakeholder =
+[[File:Teammember-team2-digikube-febi.PNG|thumb|Team Member of Digikube]]
+* Fenton Salim as Team Leader
+* [[User:Febiubl|Febi Ari Wicaksono]] as IT & Knowledge Repository Builder
+* [[User:Indrahanif1989|M. Indrahanif]] as IT & Knowledge Repository Builder
+* [[User:InayaHDX|Inaya Sari M]] as Entrepreneurship and Marketing Expert
+* George K as Entrepreneurship and Marketing Expert
+* Allicia Deana as Entrepreneurship and Marketing Expert
+* Yanuarti KD as Stakeholder Engagement and Community Relation
+* Gilang Permana as Stakeholder Engagement and Community Relation
+* Dadang Sulaeman as Government Policy and Regulation
+* Agus Wahidin as Government Policy and Regulation
+* Bubun Aliminsyah as Social Empowerment Division
+* Arief Syamsudin as IT Developer
